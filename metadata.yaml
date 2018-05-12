@@ -1,0 +1,36 @@
+_repo: Owen-Glyndwr-and-the-Last-Struggle-for-Welsh-IndependenceWith-a-Brief-Sketch-of-Welsh-History_42457
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42457-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bradley, A. G. (Arthur Granville)
+    aliases:
+    - Bradley, Arthur Granville
+    - Bradley, A.G.
+    birthdate: 1850
+    deathdate: 1943
+    gutenberg_agent_id: '41697'
+    url: http://www.gutenberg.org/2009/agents/41697
+description: ''
+gutenberg_issued: '2013-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42457'
+  lccn: 01022845
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wales -- History -- 1284-1536'
+- !lcsh 'Princes -- Wales -- Biography'
+- !lcsh 'Nationalism -- Wales -- History'
+- !lcsh 'Revolutionaries -- Wales -- Biography'
+- !lcc 'DA'
+- !lcsh 'Glendower, Owen, approximately 1354-1416'
+title: 'Owen Glyndwr and the Last Struggle for Welsh Independence
+
+  With a Brief Sketch of Welsh History'
+url: http://www.gutenberg.org/ebooks/42457
